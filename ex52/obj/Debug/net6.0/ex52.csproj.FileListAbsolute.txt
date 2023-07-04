@@ -1,0 +1,15 @@
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\bin\Debug\net6.0\ex52.exe
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\bin\Debug\net6.0\ex52.deps.json
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\bin\Debug\net6.0\ex52.runtimeconfig.json
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\bin\Debug\net6.0\ex52.dll
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\bin\Debug\net6.0\ex52.pdb
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\ex52.csproj.AssemblyReference.cache
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\ex52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\ex52.AssemblyInfoInputs.cache
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\ex52.AssemblyInfo.cs
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\ex52.csproj.CoreCompileInputs.cache
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\ex52.dll
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\refint\ex52.dll
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\ex52.pdb
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\ex52.genruntimeconfig.cache
+C:\Users\79818\OneDrive\Рабочий стол\семинары\Знакомство с языками програмирования\задание_семинар7\ex52\obj\Debug\net6.0\ref\ex52.dll
